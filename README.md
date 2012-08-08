@@ -1,7 +1,7 @@
 Syntactic analysis tools for Japanese language text
 ================================================
 
-Example implementations of Yahoo Japan's APIs for the analysis of Japanese text:
+Example implementations of Yahoo! Japan's APIs for the syntactic analysis of Japanese text:
 
 * 係り受け解析 | Japanese Text Analysis - Dependency Parsing
 * 形態素解析 | Morphological analysis
@@ -17,6 +17,7 @@ Registration in [Yahoo! Developer Network](http://e.developer.yahoo.co.jp/webser
 - The simplexml.class makes it possible to load XML documents under PHP4 just as
 if PHP5's SimpleXML extension was being used. 
 - Working from behind a proxy is also possible.
+- Full specifications of these Japanese text web API's can be found [here](http://developer.yahoo.co.jp/webapi/jlp/).
 
 jdsa
 ------
