@@ -1,4 +1,4 @@
-Tools for the analysis of Japanese language text
+Syntactic analysis tools for Japanese language text
 ================================================
 
 Example implementations of Yahoo Japan's APIs for the analysis of Japanese text:
